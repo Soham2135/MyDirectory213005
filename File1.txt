@@ -1,0 +1,4 @@
+This is the first line of File1
+This is the second line of File1
+Updated line in File1
+Add a new line to file1
